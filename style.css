@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lora:ital@1&display=swap');
+
+body {
+    font-family: "Lora", Helvetica, sans-serif;
+    background-color: rgb(157, 206, 230);
+
+}
+
+h1, h2 {
+    font-family: "Anton", Helvetica, sans-serif;;
+}
+
+h1:hover {
+    font-weight: bolder;
+}
+
